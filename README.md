@@ -1,12 +1,12 @@
 # solid-proyecto
 
-+-------------------+       +-----------------+       +--------------+ 
-|     Material      |       |      producti   |       |     Venta    |
-+-------------------+       +-----------------+       +--------------+
-| - nombre          |       | - material      |       | - silla      |
-| - tipo            |       | - precio        |       | - fecha      |
-| - precio          |       | - cantidadStock|       | - precio     |
-+-------------------+       +-----------------+       +--------------+
++-------------------+        +-----------------+       +--------------+ 
+|     Material      |        |      producti   |       |     Venta    |
++-------------------+        +-----------------+       +--------------+
+| - nombre          |        | - material      |       | - silla      |
+| - tipo            |        | - precio        |       | - fecha      |
+| - precio          |        |  - cantidadStock|       | - precio     |
++-------------------+        +-----------------+       +--------------+
 | + getNombre()     |       | + getMaterial() |       | + getSilla() |
 | + getTipo()       |       | + getPrecio()   |       | + getFecha() |
 | + getPrecio()     |       | + vender()      |       | + getPrecio()|
